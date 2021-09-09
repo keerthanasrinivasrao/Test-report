@@ -1,0 +1,10 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Subtask,RET-140,10146,Create test execution for Admin>Report>Customer,Keerthana S,612f1ff88bb88c006f3fe1de,Mahfooza Ahmed,612f0c178bb88c006f3f0437,Medium,To Do,,9/7/2021 17:31,9/7/2021 17:31,
+Subtask,RET-138,10144,Create test execution for Admin>Catalog>downloads,Keerthana S,612f1ff88bb88c006f3fe1de,Mahfooza Ahmed,612f0c178bb88c006f3f0437,Medium,To Do,,9/7/2021 17:29,9/7/2021 17:30,
+Subtask,RET-115,10121,Review test cases,Keerthana S,612f1ff88bb88c006f3fe1de,Naija Jain,612f10e6b7859000710bf6e5,Medium,To Do,,9/6/2021 20:34,9/7/2021 12:34,
+Subtask,RET-113,10119,Review Test cases,Keerthana S,612f1ff88bb88c006f3fe1de,Naija Jain,612f10e6b7859000710bf6e5,Medium,To Do,,9/6/2021 20:33,9/7/2021 12:14,
+Subtask,RET-101,10107,Execute the test cases for User>Payment,Keerthana S,612f1ff88bb88c006f3fe1de,Mahfooza Ahmed,612f0c178bb88c006f3f0437,Medium,To Do,,9/6/2021 20:12,9/6/2021 20:12,
+Subtask,RET-79,10085,Review Test Case Retail_User_Payment,Keerthana S,612f1ff88bb88c006f3fe1de,Naija Jain,612f10e6b7859000710bf6e5,Medium,To Do,,9/6/2021 15:50,9/6/2021 21:02,
+Task,RET-70,10076,Create test  cases for Admin>Reports>Marketing,Keerthana S,612f1ff88bb88c006f3fe1de,Mahfooza Ahmed,612f0c178bb88c006f3f0437,Medium,Done,Done,9/6/2021 10:39,9/8/2021 23:20,
+Task,RET-46,10052,Create test  cases for Admin>Reports>Customer,Keerthana S,612f1ff88bb88c006f3fe1de,Mahfooza Ahmed,612f0c178bb88c006f3f0437,Medium,Done,Done,9/2/2021 17:11,9/8/2021 23:20,
+Task,RET-35,10041,Create test  cases User>Checkout,Keerthana S,612f1ff88bb88c006f3fe1de,Mahfooza Ahmed,612f0c178bb88c006f3f0437,Medium,In Progress,,9/2/2021 14:42,9/6/2021 14:25,
